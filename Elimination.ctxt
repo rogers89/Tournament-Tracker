@@ -1,9 +1,0 @@
-#BlueJ class context
-comment0.params=tname
-comment0.target=Elimination(String)
-comment1.params=a
-comment1.target=void\ setEntrants(String[])
-comment2.target=void\ setRounds()
-comment3.target=void\ makePairings()
-comment4.target=void\ setWinner()
-numComments=5
